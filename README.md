@@ -8,3 +8,7 @@ Capturing motion and charting its intensity. Good for analyzing how often someon
 
 # Turn the macro DEBUG_HISTOGRAM to 0 to only display movement detection cam.
 
+
+# This program requires OpenCv's library to run.
+
+You can download OpenCv here https://sourceforge.net/projects/opencvlibrary/
